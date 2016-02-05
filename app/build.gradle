@@ -28,5 +28,7 @@ dependencies {
     * add recycler view dependency
     * */
     compile 'com.android.support:recyclerview-v7:23.1.1'
+    //butter knife
+    compile 'com.jakewharton:butterknife:7.0.1'
 
 }
