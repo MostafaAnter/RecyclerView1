@@ -22,4 +22,6 @@ this steps just simple hint to use this project inside your project
 - Create an layout xml named movie_list_row.xml
 - Now create a class named MoviesAdapter.java
 - use Butter Knife to find and automatically cast the corresponding view in your layout.
+- Adding RecyclerView Divider / Separator
+- Create a class named DividerItemDecoration.java 
 
