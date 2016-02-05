@@ -28,3 +28,7 @@ this steps just simple hint to use this project inside your project
 - Open MainActivity.java and add the below RecyclerTouchListener class along with ClickListener interface.
 - Finally add the recycler view item click listener
 
+
+# ScreenShot
+![alt tag](https://github.com/MostafaAnter/RecyclerView1/blob/master/device-2016-02-05-174500.png)
+
