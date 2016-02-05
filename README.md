@@ -24,4 +24,6 @@ this steps just simple hint to use this project inside your project
 - use Butter Knife to find and automatically cast the corresponding view in your layout.
 - Adding RecyclerView Divider / Separator
 - Create a class named DividerItemDecoration.java 
+- Adding RecyclerView Item Click Listener
+- Open MainActivity.java and add the below RecyclerTouchListener class along with ClickListener interface.
 
