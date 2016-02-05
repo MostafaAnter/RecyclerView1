@@ -21,4 +21,5 @@ this steps just simple hint to use this project inside your project
 - create model class my model is Movie.java
 - Create an layout xml named movie_list_row.xml
 - Now create a class named MoviesAdapter.java
+- use Butter Knife to find and automatically cast the corresponding view in your layout.
 
