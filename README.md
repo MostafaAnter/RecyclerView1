@@ -26,4 +26,5 @@ this steps just simple hint to use this project inside your project
 - Create a class named DividerItemDecoration.java 
 - Adding RecyclerView Item Click Listener
 - Open MainActivity.java and add the below RecyclerTouchListener class along with ClickListener interface.
+- Finally add the recycler view item click listener
 
