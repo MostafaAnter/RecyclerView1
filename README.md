@@ -14,12 +14,9 @@ The RecyclerView widget is a more advanced and flexible version of ListView. Thi
 
 
 # steps
-
 this steps just simple hint to use this project inside your project
-
 - add recycler view dependency.
 - Open content_main.xml and the recycler view widget.
 - Open colors.xml located under res ⇒ values and copy colors inside it.
 - create model class my model is Move.java
-- 
 
